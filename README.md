@@ -14,6 +14,8 @@
 ## 📁 Data Source
 Provided by DEPI  
 [Link to Dataset](https://drive.google.com/file/d/1QE_uoS8Aywd7ZFhmMvDmVf7jf0XN6mhw/view?usp=sharing)
+## 📁 Link of project
+https://drive.google.com/drive/folders/1MrjqMPDy4m0gnn5LhBdJRRLggc7VoJ7d?usp=drive_link
 
 ---
 
