@@ -1,12 +1,6 @@
 
 # 📊 Superstore Sales Dataset Analysis
 
-## 📁 Data Source
-Provided by DEPI  
-[Link to Dataset](https://drive.google.com/file/d/1QE_uoS8Aywd7ZFhmMvDmVf7jf0XN6mhw/view?usp=sharing)
-
----
-
 ## 🎯 Project Objective
 
 This project analyzes sales data to answer the following business questions:
